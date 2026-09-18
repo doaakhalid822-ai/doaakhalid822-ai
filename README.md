@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-<!--
-# 👋 Hi, I'm Doaa Khalid  
+
+#  I'm Doaa Khalid  
 ### SysAdmin | Cloud Engineer | Mobile & Web Developer | AI & Computer Vision Researcher  
 
 Welcome to my GitHub profile!  
@@ -149,5 +149,5 @@ It integrates real-time computer vision, GPS-collar tracking, LoRa communication
 ## 📫 Contact  
 Explore my repositories or reach out for collaboration!  
 **GitHub:** doaakhalid822-ai
+**Email:** doaakh41@gmail.com
 
--->
